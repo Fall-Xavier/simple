@@ -1,5 +1,4 @@
 # Cara Install
-Jika belum download termux silahkan download di [sini!](https://f-droid.org/repo/com.termux_118.apk)
 ```
 pkg update && pkg upgrade
 pkg install python git
